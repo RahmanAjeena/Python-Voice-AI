@@ -9,7 +9,7 @@ you will have access to add your own custom command that can do things that othe
 
 1. Install latest version of python
 2. Open CMD/Terminal and go to the code's directory
-3. run *pip install -r requirments*
+3. run _*pip install -r requirments*_
 4. run main.py
 
 Developed by @RahmanAjeena
