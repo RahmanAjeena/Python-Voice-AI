@@ -1,6 +1,7 @@
 # Python-Voice-AI
 
 **DON'T USE V0.1 BETA, IT DOES NOT WORK PLEASE USE V0.3 BETA**
+
 **NOT ON REPET BEAUSE IT IS BUGGED** [working on a fix]
 
 This AI is runned on python and is developed to allow you to have the ability to not just have your own assistant, 
