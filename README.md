@@ -1,6 +1,6 @@
 # Python-Voice-AI
 
-**DON'T USE V0.1 BETA, IT DOES NOT WORK PLEASE USE V0.3 BETA**
+**DON'T USE V0.1 BETA, IT DOES NOT WORK PLEASE USE V0.5 BETA**
 
 **NOT ON REPET BEAUSE IT IS BUGGED** [working on a fix]
 
@@ -13,5 +13,12 @@ you will have access to add your own custom command that can do things that othe
 2. Open CMD/Terminal and go to the code's directory
 3. run _*pip install -r requirments*_
 4. run main.py
+
+# Commands
+
+- Time 
+- Date
+- Temprature
+- Play (Videos & Songs)
 
 Developed by @RahmanAjeena
