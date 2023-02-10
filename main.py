@@ -45,6 +45,6 @@ elif 'play' in text:
 elif 'temperature' in text:
   audbot(f"The temperature is {tem} celsius, and the feel like is {temp_feel_like} celsius")
 elif 'date' in text:
-    talk(f'Today is ' + now.strftime("%Y-%m-%d"))
+  audbot(f'Today is ' + now.strftime("%Y-%m-%d"))
 else:
   audbot("Error 404")
